@@ -1,8 +1,9 @@
+
 breakfast = 'frosted flakes'
 lunch = 'grilled cheese'
-dinner = ''
+dinner = 'salmon'
 
-puts last_name + 'birth year is' + 'and is from' +' and fav color is '
+puts  + 'birth year is' + 'and is from' +' and fav color is '
 
 puts 'what is your last name?'
 last_name = gets
