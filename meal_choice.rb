@@ -1,4 +1,4 @@
-name = 'my name is natalia, for the order'
+name = 'natalia'
 breakfast = 'morning is the best time for frosted flakes'
 lunch = 'lunch is the best time for grilled cheese'
 dinner = 'dinner is the best time for salmon'
