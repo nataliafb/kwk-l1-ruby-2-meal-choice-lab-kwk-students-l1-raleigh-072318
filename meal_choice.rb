@@ -5,13 +5,13 @@ dinner = 'salmon'
 
 puts name + 'has this for breakfast' + 'and has this for lunch' +' this for dinner'
 
-puts 'what is your last name?'
+puts 'what is the best thing to have for breakfast?'
 last_name = gets
 
-puts ' what is your birth year?'
+puts ' what is the best thing to have for lunch?'
 birthyear = gets
 
-puts 'where were you born?'
+puts 'what is the best thing to have for dinenr?'
 birthplace = gets
 puts 'favorite color?'
 favcolor = gets 
