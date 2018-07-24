@@ -3,7 +3,7 @@ breakfast = 'frosted flakes'
 lunch = 'grilled cheese'
 dinner = 'salmon'
 
-puts name + 'has this for breakfast' + 'and has this for lunch' +' this for dinner'
+puts name + 'what can we serve for breakfast' + 'lunch' +' or dinner'
 
 puts 'whats the name for todays order?'
 name = gets
