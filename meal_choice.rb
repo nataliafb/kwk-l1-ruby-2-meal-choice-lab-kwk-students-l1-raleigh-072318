@@ -1,18 +1,18 @@
-name = 'natalia'
-breakfast = 'frosted flakes'
-lunch = 'grilled cheese'
-dinner = 'salmon'
+name = 'my name is natalia, for the order'
+breakfast = 'morning is the best time for frosted flakes'
+lunch = 'lunch is the best time for grilled cheese'
+dinner = 'dinner is the best time for salmon'
 
 puts name + 'what can we serve for breakfast' + 'lunch' +' or dinner'
 
 puts 'whats the name for todays order?'
 name = gets
 
-puts 'what is the best thing to have for breakfast?'
+puts 'what would you like for breakfast?'
 breakfast = gets
 
-puts ' what is the best thing to have for lunch?'
+puts ' what would you like for lunch?'
 lunch = gets
 
-puts 'what is the best thing to have for dinenr?'
+puts 'what would you like for dinner?'
 dinner = gets
