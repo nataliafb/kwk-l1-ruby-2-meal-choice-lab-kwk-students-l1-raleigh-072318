@@ -1,9 +1,9 @@
-
+name = 'natalia'
 breakfast = 'frosted flakes'
 lunch = 'grilled cheese'
 dinner = 'salmon'
 
-puts  + 'birth year is' + 'and is from' +' and fav color is '
+puts name + 'has this for breakfast' + 'and has this for lunch' +' this for dinner'
 
 puts 'what is your last name?'
 last_name = gets
